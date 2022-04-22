@@ -1,0 +1,23 @@
+body{
+    background-color: lavender;
+}
+title{
+    font-style: italic;
+}
+h1{
+    color: crimson;
+}
+h3{
+    color: darkred;
+}
+hr{
+    border-style: none ;
+    border-top-style:groove;
+    border-color: black;
+}
+img{
+    background-color: black ;
+    border-radius: 2px;
+    border-style: groove ;
+    border-color: black;
+}
